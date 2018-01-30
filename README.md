@@ -1,6 +1,6 @@
 # 2x2Solver
 
-1. Jeśli nie posiadasz cmake, zainstaluj go poleceniem (minimalna wymagana wersja to 3.8)
+1. Jeśli nie posiadasz cmake, zainstaluj (minimalna wymagana wersja to 3.8)
    https://askubuntu.com/a/865294
 2. Wejdź do katalogu /2x2solver
 3. Uruchom skrypt kompilujący poleceniem: ./compile
