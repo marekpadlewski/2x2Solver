@@ -1,0 +1,8 @@
+#!/bin/sh
+#bash script that compile project
+#you have to install cmake
+
+mkdir build;
+cd build
+cmake ../
+make
